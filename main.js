@@ -5,6 +5,7 @@ var Point = /** @class */ (function () {
     }
     Point.prototype.drow = function () {
         console.log('X : ' + this.x + ' Y: ' + this.y);
+        
     };
     return Point;
 }());
